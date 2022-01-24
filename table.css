@@ -1,0 +1,15 @@
+body{
+  
+   background: content-box radial-gradient(rgb(255, 106, 136), skyblue);
+
+}
+table{
+    border: rgb(0, 0, 0);
+    padding: 0px;
+}
+th{
+background-color: crimson;
+}
+td{
+    background-color: rgb(0, 255, 200);
+}
